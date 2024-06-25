@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
    - Ensure your virtual environment is activated.
    - Install the necessary Python packages by running:
      ```
-     pip install requests beautifulsoup4
+     pip install -r requirements.txt 
      ```
 
 ## Running the Script
