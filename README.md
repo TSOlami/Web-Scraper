@@ -44,8 +44,11 @@ Before you begin, ensure you have the following installed:
 
 ## Running the Script
 
-1. **Download the Script:**
-   - Download the web scraper script from the provided link or repository.
+1. **Clone the Repository:**
+   - First, clone the repository containing the web scraper script. Open your command prompt and run:
+     ```
+     git clone https://github.com/TSOlami/Web-Scraper.git
+     ```
 
 2. **Navigate to the Script's Directory:**
    - Use the command prompt to navigate to the directory where you downloaded the script. For example:
