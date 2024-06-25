@@ -56,9 +56,10 @@ Before you begin, ensure you have the following installed:
 3. **Run the Script:**
    - Execute the script by running:
      ```
-     python script_name.py
+     python scrape.py
      ```
-   - Replace `script_name.py` with the actual name of your script.
+   - The first prompt will ask you to enter a URL. This is the web page that the script will scrape.
+   - The second prompt will ask you to enter the file name to save the scraped content as. This name will be used to create an HTML file containing the scraped data.
 
 ## Understanding the Output
 
