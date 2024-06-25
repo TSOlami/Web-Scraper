@@ -6,3 +6,6 @@ myenv/
 myvenv/*
 myvenv/
 
+# Generated files
+*.pyc
+*.html
